@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Oliver\\source\\repos\\HospitalPatientAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D369864-DD64-45CB-ADC6-53486ED9175E}|HospitalPatientAPI.csproj|c:\\users\\oliver\\source\\repos\\hospitalpatientapi\\controller\\treatmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D369864-DD64-45CB-ADC6-53486ED9175E}|HospitalPatientAPI.csproj|solutionrelative:controller\\treatmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D369864-DD64-45CB-ADC6-53486ED9175E}|HospitalPatientAPI.csproj|c:\\users\\oliver\\source\\repos\\hospitalpatientapi\\dto\\treatmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D369864-DD64-45CB-ADC6-53486ED9175E}|HospitalPatientAPI.csproj|solutionrelative:dto\\treatmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D369864-DD64-45CB-ADC6-53486ED9175E}|HospitalPatientAPI.csproj|c:\\users\\oliver\\source\\repos\\hospitalpatientapi\\entities\\treatment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D369864-DD64-45CB-ADC6-53486ED9175E}|HospitalPatientAPI.csproj|solutionrelative:entities\\treatment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D369864-DD64-45CB-ADC6-53486ED9175E}|HospitalPatientAPI.csproj|c:\\users\\oliver\\source\\repos\\hospitalpatientapi\\controller\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D369864-DD64-45CB-ADC6-53486ED9175E}|HospitalPatientAPI.csproj|solutionrelative:controller\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D369864-DD64-45CB-ADC6-53486ED9175E}|HospitalPatientAPI.csproj|c:\\users\\oliver\\source\\repos\\hospitalpatientapi\\controller\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D369864-DD64-45CB-ADC6-53486ED9175E}|HospitalPatientAPI.csproj|solutionrelative:controller\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D369864-DD64-45CB-ADC6-53486ED9175E}|HospitalPatientAPI.csproj|c:\\users\\oliver\\source\\repos\\hospitalpatientapi\\entities\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D369864-DD64-45CB-ADC6-53486ED9175E}|HospitalPatientAPI.csproj|solutionrelative:entities\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D369864-DD64-45CB-ADC6-53486ED9175E}|HospitalPatientAPI.csproj|c:\\users\\oliver\\source\\repos\\hospitalpatientapi\\entities\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D369864-DD64-45CB-ADC6-53486ED9175E}|HospitalPatientAPI.csproj|solutionrelative:entities\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D369864-DD64-45CB-ADC6-53486ED9175E}|HospitalPatientAPI.csproj|c:\\users\\oliver\\source\\repos\\hospitalpatientapi\\hospitalpatientapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7D369864-DD64-45CB-ADC6-53486ED9175E}|HospitalPatientAPI.csproj|solutionrelative:hospitalpatientapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Oliver\\source\\repos\\HospitalPatientAPI\\Migrations\\20241104164924_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20241104164924_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D369864-DD64-45CB-ADC6-53486ED9175E}|HospitalPatientAPI.csproj|c:\\users\\oliver\\source\\repos\\hospitalpatientapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D369864-DD64-45CB-ADC6-53486ED9175E}|HospitalPatientAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D369864-DD64-45CB-ADC6-53486ED9175E}|HospitalPatientAPI.csproj|c:\\users\\oliver\\source\\repos\\hospitalpatientapi\\context\\hospitalcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D369864-DD64-45CB-ADC6-53486ED9175E}|HospitalPatientAPI.csproj|solutionrelative:context\\hospitalcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D369864-DD64-45CB-ADC6-53486ED9175E}|HospitalPatientAPI.csproj|c:\\users\\oliver\\source\\repos\\hospitalpatientapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7D369864-DD64-45CB-ADC6-53486ED9175E}|HospitalPatientAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D369864-DD64-45CB-ADC6-53486ED9175E}|HospitalPatientAPI.csproj|c:\\users\\oliver\\source\\repos\\hospitalpatientapi\\migrations\\20241104170402_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D369864-DD64-45CB-ADC6-53486ED9175E}|HospitalPatientAPI.csproj|solutionrelative:migrations\\20241104170402_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20241104170402_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\Oliver\\source\\repos\\HospitalPatientAPI\\Migrations\\20241104170402_Initial.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241104170402_Initial.cs",
+              "ToolTip": "C:\\Users\\Oliver\\source\\repos\\HospitalPatientAPI\\Migrations\\20241104170402_Initial.cs",
+              "RelativeToolTip": "Migrations\\20241104170402_Initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T17:04:02.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TreatmentController.cs",
+              "DocumentMoniker": "C:\\Users\\Oliver\\source\\repos\\HospitalPatientAPI\\Controller\\TreatmentController.cs",
+              "RelativeDocumentMoniker": "Controller\\TreatmentController.cs",
+              "ToolTip": "C:\\Users\\Oliver\\source\\repos\\HospitalPatientAPI\\Controller\\TreatmentController.cs",
+              "RelativeToolTip": "Controller\\TreatmentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T16:51:30.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DoctorController.cs",
+              "DocumentMoniker": "C:\\Users\\Oliver\\source\\repos\\HospitalPatientAPI\\Controller\\DoctorController.cs",
+              "RelativeDocumentMoniker": "Controller\\DoctorController.cs",
+              "ToolTip": "C:\\Users\\Oliver\\source\\repos\\HospitalPatientAPI\\Controller\\DoctorController.cs",
+              "RelativeToolTip": "Controller\\DoctorController.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAIwAMAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T16:51:22.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PatientController.cs",
+              "DocumentMoniker": "C:\\Users\\Oliver\\source\\repos\\HospitalPatientAPI\\Controller\\PatientController.cs",
+              "RelativeDocumentMoniker": "Controller\\PatientController.cs",
+              "ToolTip": "C:\\Users\\Oliver\\source\\repos\\HospitalPatientAPI\\Controller\\PatientController.cs",
+              "RelativeToolTip": "Controller\\PatientController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T16:51:01.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TreatmentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Oliver\\source\\repos\\HospitalPatientAPI\\DTO\\TreatmentDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\TreatmentDTO.cs",
+              "ToolTip": "C:\\Users\\Oliver\\source\\repos\\HospitalPatientAPI\\DTO\\TreatmentDTO.cs",
+              "RelativeToolTip": "DTO\\TreatmentDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T16:50:27.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20241104164924_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\Oliver\\source\\repos\\HospitalPatientAPI\\Migrations\\20241104164924_Initial.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241104164924_Initial.cs",
+              "ToolTip": "C:\\Users\\Oliver\\source\\repos\\HospitalPatientAPI\\Migrations\\20241104164924_Initial.cs",
+              "RelativeToolTip": "Migrations\\20241104164924_Initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T16:49:24.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HospitalContext.cs",
+              "DocumentMoniker": "C:\\Users\\Oliver\\source\\repos\\HospitalPatientAPI\\Context\\HospitalContext.cs",
+              "RelativeDocumentMoniker": "Context\\HospitalContext.cs",
+              "ToolTip": "C:\\Users\\Oliver\\source\\repos\\HospitalPatientAPI\\Context\\HospitalContext.cs",
+              "RelativeToolTip": "Context\\HospitalContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T16:46:54.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Treatment.cs",
+              "DocumentMoniker": "C:\\Users\\Oliver\\source\\repos\\HospitalPatientAPI\\Entities\\Treatment.cs",
+              "RelativeDocumentMoniker": "Entities\\Treatment.cs",
+              "ToolTip": "C:\\Users\\Oliver\\source\\repos\\HospitalPatientAPI\\Entities\\Treatment.cs",
+              "RelativeToolTip": "Entities\\Treatment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T16:44:21.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\Oliver\\source\\repos\\HospitalPatientAPI\\Entities\\Doctor.cs",
+              "RelativeDocumentMoniker": "Entities\\Doctor.cs",
+              "ToolTip": "C:\\Users\\Oliver\\source\\repos\\HospitalPatientAPI\\Entities\\Doctor.cs",
+              "RelativeToolTip": "Entities\\Doctor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T16:44:08.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\Oliver\\source\\repos\\HospitalPatientAPI\\Entities\\Patient.cs",
+              "RelativeDocumentMoniker": "Entities\\Patient.cs",
+              "ToolTip": "C:\\Users\\Oliver\\source\\repos\\HospitalPatientAPI\\Entities\\Patient.cs",
+              "RelativeToolTip": "Entities\\Patient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T16:44:04.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HospitalPatientAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\Oliver\\source\\repos\\HospitalPatientAPI\\HospitalPatientAPI.csproj",
+              "RelativeDocumentMoniker": "HospitalPatientAPI.csproj",
+              "ToolTip": "C:\\Users\\Oliver\\source\\repos\\HospitalPatientAPI\\HospitalPatientAPI.csproj",
+              "RelativeToolTip": "HospitalPatientAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-04T16:42:45.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Oliver\\source\\repos\\HospitalPatientAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Oliver\\source\\repos\\HospitalPatientAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-04T16:43:10.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Oliver\\source\\repos\\HospitalPatientAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Oliver\\source\\repos\\HospitalPatientAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBMAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T16:42:01.611Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
